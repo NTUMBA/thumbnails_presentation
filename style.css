@@ -1,0 +1,22 @@
+.main{
+  width:70%;
+  margin: 20%;
+  text-align: center;
+}
+.container{
+  background-image: url("/home/mboma/Downloads/thumbnails.png");
+  background-repeat: no-repeat;
+}
+.container .goal{
+font-weight: bold;
+font-style: italic;
+font-family: Helvetica, sans-serif;
+border: 1px dotted tomato;
+}
+
+@media(min-width:769px){
+.wrap{
+  min-height:100vh;
+}
+
+}
