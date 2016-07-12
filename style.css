@@ -3,6 +3,9 @@
   margin: 20%;
   text-align: center;
 }
+.main li{
+  list-style: none;
+}
 .container{
   background-image: url("/home/mboma/Downloads/thumbnails.png");
   background-repeat: no-repeat;
