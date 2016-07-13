@@ -1,6 +1,6 @@
 .main{
   width:70%;
-  margin: 20%;
+  margin: 0 auto;
   text-align: center;
 }
 .main li{
@@ -15,6 +15,9 @@ font-weight: bold;
 font-style: italic;
 font-family: Helvetica, sans-serif;
 border: 1px dotted tomato;
+}
+.main img{
+  width: 15%;
 }
 
 @media(min-width:769px){
